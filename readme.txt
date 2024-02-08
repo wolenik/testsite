@@ -19,5 +19,9 @@ Javascript Files:
  - Basic Lightbox (https://basiclightbox.electerious.com/)
  - MailtoUI (https://mailtoui.com/)
 
-
+Images for qoutes:
+ - Enstein: https://www.britannica.com/biography/Albert-Einstein
+ - Confucius: https://www.worldhistory.org/Confucius/
+ - Lau Tzu: https://www.viewbug.com/photo/85777542
+ - Walt Whitman: https://poemanalysis.com/walt-whitman/biography/
 

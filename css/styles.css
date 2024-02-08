@@ -3408,6 +3408,13 @@ img.u-pull-left {
 }
 
 .about-info__pic {
+    opacity: 0.5;
+    object-fit     : cover;
+    margin         : 0;
+    vertical-align : bottom;
+}
+.about-info__pic:hover {
+    opacity: 0.5;
     object-fit     : cover;
     margin         : 0;
     vertical-align : bottom;
